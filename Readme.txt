@@ -1,5 +1,5 @@
 Thanks for downloading this template!
 
-Download the code here!
+Download the code from here!
 
-URl  https://github.com/Yousuf-Ghafoor/Machine-Learning
+URl  "https://github.com/Yousuf-Ghafoor/Machine-Learning"
